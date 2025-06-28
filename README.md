@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="[assets/screenshot.png](https://media.licdn.com/dms/image/v2/D4E16AQFVeKqGzJdHfg/profile-displaybackgroundimage-shrink_350_1400/B4EZen97FDHIAg-/0/1750869718552?e=1756339200&v=beta&t=ELneby1T8nT5dEAmEv-nbfzwjmmEQYDhbQXjrxsDSkU)" alt="Preview" width="500"/>
 
 # 👋 Hi, I’m Achraf Fril
 
